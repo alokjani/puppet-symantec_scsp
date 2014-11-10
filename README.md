@@ -74,6 +74,7 @@ The name of an existing detection policy group for this agent to join.
 ###Classes
 ####Public Classes
 * [`symantec_scsp`](#class-symantec_scsp): Install the Symantec SCSP package
+
 ####Private Classes
 * [`symantec_scsp::install`](#class-install): Ensure that SCSP is installed 
 * [`symantec_scsp::service`](#class-service): Ensure that SCSP Service state is maintained 
