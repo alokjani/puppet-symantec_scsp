@@ -1,0 +1,8 @@
+name 'symantec_scsp'
+version '0.1'
+author 'alokjani'
+license 'Apache 2.0'
+project_page 'https://github.com/alokjani/puppet-symantec_scsp'
+source ''
+summary 'Managing Symantec Critical System Protection agents on Windows Servers.'
+description 'A very simple module for installing the Symantec Critical System Protection H-IPS & H-IDS on Windows Servers.'
